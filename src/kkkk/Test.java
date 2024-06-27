@@ -7,5 +7,9 @@ public class Test {
         swiggy.fatherName="Kodanda Ramulu";
         System.out.println("name ="+swiggy.name);
         System.out.println("fathername ="+swiggy.fatherName);
+        Student samath=new Student();
+        samath.name="Avula Sampath";
+        samath.phoneNumber="12345678";
+
     }
 }
